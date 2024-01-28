@@ -1,10 +1,6 @@
 **CA01- Exploratory Data Analysis - House Price Analysis**
 The dataset is from github.com/ArinB/MSBA-CA-Data/CA01
 
-**House Price Dataset**
-As always, learning by doing is the best practice to understand deeper. So now, we are going to make our hands dirt by analyzing House Price Dataset.
-Once the dataset is made “analytics ready”, you can use this dataset for Hour Price Prediction using various algorithms later. But for now you first need to analyze the structure, domain, and contents of it thoroughly.
-
 **What is it about?**
 This data provides values of various features that “might” be predictive of house prices. In other words, if a ML model is developed using this dataset, potentially such a model can be used to determine the “listing price” of a property that the owners are planning to sell.
 
